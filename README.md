@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**FernandoGonzalezHomerti/FernandoGonzalezHomerti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Fernando
 
-Here are some ideas to get you started:
+### Nice to meet you!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Homerti
+- 🌱 I’m currently learning Web Development with Laravel and Vue
+- 👯 I’m looking to collaborate on Github and Bitbucket
+- 🤔 I’m looking for help with Laravel
+- 💬 Ask me about Frontend
+- 📫 How to reach me: my email
+- 😄 Pronouns: No.
+- ⚡ Fun fact: I'm also a DJ.
